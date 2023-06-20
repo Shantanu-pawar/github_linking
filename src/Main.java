@@ -9,6 +9,6 @@ public class Main {
             System.out.print(arr[i] + " ");
         }
 
-
+/// create fibonacci nubmer program int his fing
     }
 }
